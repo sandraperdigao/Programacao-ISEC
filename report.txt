@@ -1,0 +1,69 @@
+
+***************************** RELATORIO *****************************
+
+CAPACIDADE TOTAL DO ESPACO: 200
+NUMERO DE LOCAIS: 4
+NUMERO DE PESSOAS: 21
+
+------------------------------------------------------------------------
+
+LOCAL 1	CAPACIDADE-50 pessoas	OCUPACAO-6 pessoas
+PauloPires1	23	S
+Tomas111	12	I
+MarcoMarquesAAA	40	I
+PauloAlves123	34	D	5
+Carlos1	20	D	4
+CarlaCardoso	34	D	8
+
+Pessoas Doentes: 3
+Pessoas saudaveis: 1
+Pessoas imunes: 2
+
+------------------------------------------------------------------------
+
+LOCAL 2	CAPACIDADE-50 pessoas	OCUPACAO-5 pessoas
+aNA	40	D	2
+SofiaA	23	S
+HugoB	25	S
+TobiasF	98	S
+LeonardoL	10	S
+
+Pessoas Doentes: 1
+Pessoas saudaveis: 4
+Pessoas imunes: 0
+
+------------------------------------------------------------------------
+
+LOCAL 3	CAPACIDADE-50 pessoas	OCUPACAO-5 pessoas
+PauloPires2	67	D	11
+Zulmira2A	17	S
+HugoA	20	D	4
+HugoC	14	D	6
+PedroPedra	27	S
+
+Pessoas Doentes: 3
+Pessoas saudaveis: 2
+Pessoas imunes: 0
+
+------------------------------------------------------------------------
+
+LOCAL 4	CAPACIDADE-50 pessoas	OCUPACAO-5 pessoas
+Olivia1	12	S
+SamuelSimoes	56	D	2
+SandraS	56	D	2
+SandraMotaA1	24	S
+DianaD	89	S
+
+Pessoas Doentes: 2
+Pessoas saudaveis: 3
+Pessoas imunes: 0
+
+------------------------------------------------------------------------
+
+TOTAL PESSOAS DOENTES: 9	42.86 pct
+TOTAL PESSOAS SAUDAVEIS: 10	47.62 pct
+TOTAL PESSOAS IMUNES: 2	9.52 pct
+
+
+*************************** FIM RELATORIO ***************************
+
